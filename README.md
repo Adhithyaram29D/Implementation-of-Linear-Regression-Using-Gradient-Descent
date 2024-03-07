@@ -23,7 +23,7 @@ Developed by: ADHITHYARAM D
 RegisterNumber:  212222230008
 */
 ```
-```
+```python
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
@@ -63,8 +63,19 @@ print(f"Predicted Value:{pre}")
 ```   
 
 ## Output:
-![linear regression using gradient descent](sam.png)
+## df.head()
+![image](https://github.com/Adhithyaram29D/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393540/ba61619c-4a51-4bc0-9e7b-e786a8667b8f)
 
+## X and Y Values:
+![image](https://github.com/Adhithyaram29D/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393540/27f66a3c-fc95-4fe8-ae41-cfb8f5d885c0)
+![image](https://github.com/Adhithyaram29D/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393540/23a734d4-d18e-4e37-b36f-bb96943c9ccf)
+
+## X and Y Scaled:
+![image](https://github.com/Adhithyaram29D/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393540/4455cfbb-a384-479f-a52a-95bb075a24ef)
+![image](https://github.com/Adhithyaram29D/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393540/d8d87fca-6d41-4544-8cc1-0f0423ab6b86)
+
+## Predicted Value:
+![image](https://github.com/Adhithyaram29D/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393540/1d0730d3-a94a-43fe-96cb-fe6b40d3cc4e)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
