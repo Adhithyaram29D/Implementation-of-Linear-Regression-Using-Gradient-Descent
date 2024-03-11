@@ -61,7 +61,6 @@ prediction = prediction.reshape(-1,1)
 pre=scaler.inverse_transform(prediction)
 print(f"Predicted Value:{pre}")
 ```   
-
 ## Output:
 ## df.head()
 ![image](https://github.com/Adhithyaram29D/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393540/ba61619c-4a51-4bc0-9e7b-e786a8667b8f)
